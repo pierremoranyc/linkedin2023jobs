@@ -27,7 +27,7 @@ The analysis aims to uncover insights into various aspects of the IT industry, i
 ###### Data Cleaning and Merging: Conducted in Python, ensuring data quality and consistency.
 ###### Regression Analysis and Clustering: Implemented in Python to explore correlations and patterns in the data.
 ###### Data Visualization: Executed in Tableau, providing an interactive and engaging way to present the analysis findings.
-###### View Complete [Tableau Dashboard](https://public.tableau.com/views/ITSERVICESMARKETLINKEDINJOBPOSTINGS2023/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+###### View Complete [Tableau Dashboard](https://public.tableau.com/views/ITJOBMARKETLINKEDINJOBPOSTINGS2023/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ### Key Findings
 
