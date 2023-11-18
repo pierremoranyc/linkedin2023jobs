@@ -11,8 +11,10 @@ The analysis aims to uncover insights into various aspects of the IT industry, i
 
 #### The project focuses on addressing the following key questions:
 
-1.How does the IT sector's job posting count compare to other leading industries on LinkedIn in August 2023?, how is the job market share of IT sector compared to the rest of industries? (First page)
+1.How does the IT sector's job posting count compare to other leading industries on LinkedIn in August 2023?, how is the job market share of IT sector compared to the rest of industries? 
+
 2. What are the current characteristics and dynamics of the IT job market based on LinkedIn job postings, considering aspects such as job availability, geographical distribution, salary ranges, employer prominence, experience requirements, and contract types?
+   
 3.How do the regional variations in job offer volumes and average minimum salaries across the United States illustrate the geographical dynamics of the job market? (third page)
 4.What are the relationships and correlations among various numerical variables in the IT industry, such as job availability, salary ranges, company sizes, and experience requirements, as analyzed through regression and cluster analyses? 
 5.How does the IT industry's job market performance compare to the top 5 industries in terms of company size distribution, average minimum salary, and types of work arrangements? 
