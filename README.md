@@ -15,8 +15,10 @@ The analysis aims to uncover insights into various aspects of the IT industry, i
 
 2. What are the current characteristics and dynamics of the IT job market based on LinkedIn job postings, considering aspects such as job availability, geographical distribution, salary ranges, employer prominence, experience requirements, and contract types?
    
-3.How do the regional variations in job offer volumes and average minimum salaries across the United States illustrate the geographical dynamics of the job market? (third page)
+3.How do the regional variations in job offer volumes and average minimum salaries across the United States illustrate the geographical dynamics of the job market?
+
 4.What are the relationships and correlations among various numerical variables in the IT industry, such as job availability, salary ranges, company sizes, and experience requirements, as analyzed through regression and cluster analyses? 
+
 5.How does the IT industry's job market performance compare to the top 5 industries in terms of company size distribution, average minimum salary, and types of work arrangements? 
 
 ### Dataset
